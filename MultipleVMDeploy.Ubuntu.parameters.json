@@ -1,0 +1,20 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "virtualMachineAdminUserName": {
+      "value": "Ansible"
+    },
+     "virtualMachineAdminPassword": {
+      "value": "Ansible@12345"
+    },
+    "virtualMachineNamePrefix": {
+      "value": "Ansible_infra"
+    },
+    
+    "virtualMachineSize": {
+      "value": "Standard_B2s"
+    },
+     "virtualMachineCount": {
+       "value": "2"
+     },
