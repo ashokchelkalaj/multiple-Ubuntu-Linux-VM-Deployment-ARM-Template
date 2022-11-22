@@ -69,7 +69,7 @@
       "type": "string",
       "minLength": 1,
       "maxLength": 14,
-      "defaultValue": "ANSAZIN"
+      "defaultValue": "ANSAZIN",
       "metadata": {
         "description": "Globally unique DNS prefix for the Public IPs used to access the Virtual Machines"
       }
