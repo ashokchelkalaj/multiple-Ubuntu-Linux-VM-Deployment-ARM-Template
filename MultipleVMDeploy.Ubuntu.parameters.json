@@ -9,7 +9,7 @@
       "value": "Ansible@12345"
     },
     "virtualMachineNamePrefix": {
-      "value": "AnsibleInfra"
+      "value": "Ansible"
     },
     
     "virtualMachineSize": {
