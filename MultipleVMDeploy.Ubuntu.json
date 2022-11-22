@@ -35,6 +35,7 @@
       "defaultValue": "Standard_DS2_v2",
       "allowedValues": [
         "Standard_DS1_v2",
+        "Standard_B2s",
         "Standard_DS2_v2",
         "Standard_DS3_v2",
         "Standard_DS4_v2",
