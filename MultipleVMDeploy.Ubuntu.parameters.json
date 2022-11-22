@@ -16,7 +16,7 @@
       "value": "Standard_B2s"
     },
      "virtualMachineCount": {
-       "value": "2"
+       "value": 2
      }
   }
 }
